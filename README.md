@@ -44,7 +44,7 @@ This business intelligence solution transforms raw retail sales data into an exe
 * **BI & Visualization:** Microsoft Power BI Desktop
 * **Data Modeling & Calculations:** DAX (Measures for Total Revenue, Total Gross Profit, Gross Margin, Total Quantity, and Total Orders)
 * **Data Preparation:** Power Query (ETL, data cleaning, and type formatting)
-* **Data Source:** "C:\Users\ACER\Desktop\Srushti\DATA SCIENCE\PowerBI\Project\Sales_Data.xlsx"
+* **Data Source:** Kaggle
 
 ---
 
@@ -77,4 +77,4 @@ This business intelligence solution transforms raw retail sales data into an exe
 
 ## 📬 Contact
 **Srushti Badukale**  
-Srushti Badukale (https://linkedin.com/in/srushti-badukale-15941720a) | Srushti Badukale (https://github.com/srushtib08) | srushtibadukaleworks@gmail.com
+LinkedIn: (https://linkedin.com/in/srushti-badukale-15941720a) | GitHub: (https://github.com/srushtib08) | Email: srushtibadukaleworks@gmail.com
